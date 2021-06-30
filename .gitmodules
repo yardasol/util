@@ -16,3 +16,6 @@
 [submodule "ubuntu-post-installer"]
 	path = ubuntu-post-installer
 	url = ./ubuntu-post-installer/
+[submodule "profiles"]
+	path = profiles
+	url = ./profiles/
