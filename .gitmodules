@@ -1,21 +1,18 @@
-[submodule "plotting-env"]
-	path = plotting-env
-	url = ./plotting-env/
 [submodule "terminal-setup"]
 	path = terminal-setup
-	url = ./terminal-setup/
+	url = git@github.com:yardasol/terminal-setup
 [submodule "ubuntu-nuclear-software-installer"]
 	path = ubuntu-nuclear-software-installer
-	url = ./ubuntu-nuclear-software-installer/
+	url = git@github.com:yardasol/ubuntu-nuclear-software-installer
 [submodule "conda-envs"]
 	path = conda-envs
-	url = ./conda-envs/
+	url = git@github.com:yardasol/conda-envs
 [submodule "latex-note-taking"]
 	path = latex-note-taking
-	url = ./latex-note-taking/
+	url = git@github.com:yardasol/latex-note-taking
 [submodule "ubuntu-post-installer"]
 	path = ubuntu-post-installer
-	url = ./ubuntu-post-installer/
+	url = git@github.com:yardasol/ubuntu-post-installer
 [submodule "profiles"]
 	path = profiles
-	url = ./profiles/
+	url = git@github.com:yardasol/profiles
