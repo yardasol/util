@@ -1,6 +1,3 @@
-[submodule "plotting-env"]
-	path = plotting-env
-	url = ./plotting-env/
 [submodule "terminal-setup"]
 	path = terminal-setup
 	url = git@github.com:yardasol/terminal-setup
