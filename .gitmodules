@@ -17,7 +17,3 @@
 [submodule "profiles"]
 	path = profiles
 	url = git@github.com:yardasol/profiles
-[submodule "vimrc"]
-	path = vimrc
-	url = git@github.com:yardasol/vimrc.git
-	branch = yardasol-custom
