@@ -12,7 +12,12 @@
 	url = git@github.com:yardasol/latex-note-taking
 [submodule "ubuntu-post-installer"]
 	path = ubuntu-post-installer
-	url = git@github.com:yardasol/ubuntu-post-installer/blob/yardasol-custom
+	url = git@github.com:yardasol/ubuntu-post-installer
+	branch = yardasol-custom
 [submodule "profiles"]
 	path = profiles
 	url = git@github.com:yardasol/profiles
+[submodule "vimrc"]
+	path = vimrc
+	url = git@github.com:yardasol/vimrc.git
+	branch = yardasol-custom
